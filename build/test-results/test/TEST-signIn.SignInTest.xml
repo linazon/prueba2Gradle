@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="signIn.SignInTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-07-17T22:23:52" hostname="DESKTOP-OUTEJEQ" time="46.765">
+  <properties/>
+  <testcase name="testSuccessfullSignIn()" classname="signIn.SignInTest" time="6.558"/>
+  <testcase name="[1] , , There is 1 error, An email address required." classname="signIn.SignInTest" time="3.72"/>
+  <testcase name="[2] , 112358, There is 1 error, An email address required." classname="signIn.SignInTest" time="3.295"/>
+  <testcase name="[3] lina, 112358, There is 1 error, Invalid email address." classname="signIn.SignInTest" time="3.184"/>
+  <testcase name="[4] 56, 112358, There is 1 error, Invalid email address." classname="signIn.SignInTest" time="5.116"/>
+  <testcase name="[5] linazon94gmail.com, 112358, There is 1 error, Invalid email address." classname="signIn.SignInTest" time="5.591"/>
+  <testcase name="[6] linazon94@gmail, 112358, There is 1 error, Invalid email address." classname="signIn.SignInTest" time="4.878"/>
+  <testcase name="[7] nurypinedapineda@gmail.com, 112358, There is 1 error, Authentication failed." classname="signIn.SignInTest" time="4.425"/>
+  <testcase name="[8] linazon94@gmail.com, passwordtest, There is 1 error, Authentication failed." classname="signIn.SignInTest" time="5.405"/>
+  <testcase name="[9] linazon94@gmail.com, 124, There is 1 error, Invalid password." classname="signIn.SignInTest" time="4.559"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 36674
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jul. 17, 2021 5:23:49 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

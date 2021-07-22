@@ -1,0 +1,10 @@
+email,password,alert1,alert2
+"","",There is 1 error,An email address required.
+"",112358,There is 1 error,An email address required.
+lina,112358,There is 1 error,Invalid email address.
+56,112358,There is 1 error,Invalid email address.
+linazon94gmail.com,112358,There is 1 error,Invalid email address.
+linazon94@gmail,112358,There is 1 error,Invalid email address.
+nurypinedapineda@gmail.com,112358,There is 1 error,Authentication failed.
+linazon94@gmail.com,passwordtest,There is 1 error,Authentication failed.
+linazon94@gmail.com,124,There is 1 error,Invalid password.
